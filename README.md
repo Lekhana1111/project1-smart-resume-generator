@@ -35,7 +35,12 @@ This project is designed to run in Google Colab.
 ## Repository Contents
 - `Agentic AI Project.ipynb.ipynb` — full end-to-end Colab notebook
 - `docs/` — design and architecture notes
-- `examples/` — sample full agent interactions
+- `Example Interactions/` - The notebook includes three example interaction sections demonstrating the
+full agent loop. Due to privacy concerns, outputs generated using personal
+resume data are not committed to the repository.
+
+During the presentation, the notebook will be executed live to demonstrate
+the full pipeline using sample inputs.
 - `tests/` — simple validation and constraint checks
 
 ## Notes
