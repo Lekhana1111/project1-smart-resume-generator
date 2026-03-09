@@ -26,21 +26,14 @@ The agent performs the following steps:
 This project is designed to run in Google Colab.
 
 ### Steps
-1. Open `demo.ipynb` in Google Colab
+1. Open `Agentic AI Project.ipynb` in Google Colab
 2. Upload the required resume and job description files when prompted
 3. Set your HuggingFace API token in the notebook environment
 4. Run the notebook cells from top to bottom
 
-## Credentials and Security
-This repository does not contain committed secrets. API keys and tokens must be provided through environment variables or secure notebook secrets.
-
-Examples:
-- `HF_TOKEN`
-
-No credentials should be hardcoded or pushed to GitHub.
 
 ## Repository Contents
-- `demo.ipynb` — full end-to-end Colab notebook
+- `Agentic AI Project.ipynb.ipynb` — full end-to-end Colab notebook
 - `docs/` — design and architecture notes
 - `examples/` — sample full agent interactions
 - `tests/` — simple validation and constraint checks
